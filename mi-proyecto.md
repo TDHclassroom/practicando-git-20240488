@@ -5,3 +5,6 @@ Este es mi primer proyecto usando Git
 ## Características
 
 - Aprendiendo Git paso a paso
+
+## Última actualización
+Editando desde GitHub web interface
